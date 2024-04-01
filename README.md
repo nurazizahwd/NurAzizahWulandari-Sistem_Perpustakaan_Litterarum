@@ -8,6 +8,11 @@
 </table>
 
 ---------------
-## ERD
-![avatar](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/b3a014e2-5070-41e0-832b-3ee320223552)
+   </td>
+</tr>   
+</table> 
+<br><br>
+
+## Tampilan Login
+![WhatsApp Image 2023-12-02 at 22 34 12_45ab9f52](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/495aa58d-02a5-4512-9f92-cf084ec8ad90)
 
