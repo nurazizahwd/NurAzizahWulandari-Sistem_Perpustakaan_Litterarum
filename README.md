@@ -23,12 +23,13 @@
 ## Tampilan Data Anggota
 ![Screenshot 2024-04-01 103121](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/f9e88fbc-b7e2-4e80-943c-23d563fe5ef6)
 
-
-## Tampilan Transaksi
+<br>
+<h3> Beberapa Tampilan Aplikasi :</h3>
 <br>
 <table>
 <tr>
     <td>
     <small>Halaman List Menu</small>
-        <img src="![Screenshot 2024-04-01 103401](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/9d59e90d-9079-4898-bcf6-f7a9c90efeb5)" alt="Screenshot-297" width="100%" border="0">
+        <img src="![Screenshot 2024-04-01 103401](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/2239f728-4488-434b-b1e4-16c6935d65ce)
+" alt="Screenshot-297" width="100%" border="0">
     </td>
