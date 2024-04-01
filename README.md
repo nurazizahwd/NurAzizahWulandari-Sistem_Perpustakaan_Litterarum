@@ -29,7 +29,8 @@
 ## Tampilan Pengembalian
 ![Screenshot 2024-04-01 114355](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/ddb22414-186c-4660-9338-0a5d95e7de06)
 
-
+# ERD
+![image](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/e676ed4d-b307-4967-97b6-dddc35475fa1)
 
 # Referensi
 https://github.com/AgungP88/php-perpustakaan_sederhana.git
