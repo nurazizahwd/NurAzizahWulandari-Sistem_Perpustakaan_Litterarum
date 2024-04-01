@@ -29,5 +29,5 @@
 <tr>
     <td>
         <small>Pemilihan Meja</small>
-        <img src="https://i.ibb.co/dkXqfxR/Screenshot-03401.png" alt="Screenshot-03401" width="100%" border="0">
+        <img src="![Screenshot-03401](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/ff55b3dc-a67a-4724-9ea8-8a49dc3b00e2)" width="100%" border="0">
     </td>
