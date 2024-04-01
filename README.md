@@ -23,11 +23,11 @@
 ## Tampilan Data Anggota
 ![Screenshot 2024-04-01 103121](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/f9e88fbc-b7e2-4e80-943c-23d563fe5ef6)
 
-<h3> Beberapa Tampilan Aplikasi :</h3>
+<h3> Tampilan Transaksi :</h3>
 </td>
 </tr>
 <tr>
     <td>
         <small>Pemilihan Meja</small>
-        <img src="https://i.ibb.co/dkXqfxR/Screenshot-301.png" alt="Screenshot-301" width="100%" border="0">
+        <img src="https://i.ibb.co/dkXqfxR/Screenshot-03401.png" alt="Screenshot-03401" width="100%" border="0">
     </td>
