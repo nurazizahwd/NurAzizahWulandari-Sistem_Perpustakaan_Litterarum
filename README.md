@@ -23,7 +23,6 @@
 ## Tampilan Data Anggota
 ![Screenshot 2024-04-01 103121](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/f9e88fbc-b7e2-4e80-943c-23d563fe5ef6)
 
-<br>
 <h3> Beberapa Tampilan Aplikasi :</h3>
 <br>
 <table>
