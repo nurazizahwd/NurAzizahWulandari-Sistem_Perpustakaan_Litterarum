@@ -17,8 +17,18 @@
 
 
 ## Tampilan Data Buku
-![Screenshot 2024-04-01 102629](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/2f93ce08-f4de-492e-8e55-8dd57bff6299)
+![Screenshot 2024-04-01 102629](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/acb17d1f-332e-4c57-bfe8-0e94c2bb2fcc)
+
 
 ## Tampilan Data Anggota
-![Screenshot 2024-04-01 103121](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/82435067-c309-40db-8437-1e3e2a9102f6)
+![Screenshot 2024-04-01 103121](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/f9e88fbc-b7e2-4e80-943c-23d563fe5ef6)
 
+
+## Tampilan Transaksi
+<br>
+<table>
+<tr>
+    <td>
+    <small>Halaman List Menu</small>
+        <img src="![Screenshot 2024-04-01 103401](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/9d59e90d-9079-4898-bcf6-f7a9c90efeb5)" alt="Screenshot-297" width="100%" border="0">
+    </td>
