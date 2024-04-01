@@ -26,5 +26,8 @@
 # Tampilan Transaksi
 ## Tampilan Peminjaman
 ![Screenshot-03401](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/a0ded4cf-9003-4149-97f2-ed3b3042f98c)
+## Tampilan Pengembalian
+![Screenshot 2024-04-01 114355](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/5171e6b6-4abd-427b-a001-6ce58f87986f)
+
 
 
