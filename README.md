@@ -13,5 +13,6 @@
 <br><br>
 
 ## Tampilan Login
-![WhatsApp Image 2023-12-02 at 22 34 12_45ab9f52](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Kondang/assets/151890058/495aa58d-02a5-4512-9f92-cf084ec8ad90)
+![Screenshot 2024-04-01 102236](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/c88578bd-d8f8-47ed-b8fd-242f33be2b07)
+
 
