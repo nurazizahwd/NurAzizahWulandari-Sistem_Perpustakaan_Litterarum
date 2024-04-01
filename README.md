@@ -16,6 +16,9 @@
 ![Screenshot 2024-04-01 102236](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/c88578bd-d8f8-47ed-b8fd-242f33be2b07)
 
 
-## Tampilan Book Data
+## Tampilan Data Buku
 ![Screenshot 2024-04-01 102629](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/2f93ce08-f4de-492e-8e55-8dd57bff6299)
+
+## Tampilan Data Anggota
+![Screenshot 2024-04-01 103121](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/82435067-c309-40db-8437-1e3e2a9102f6)
 
