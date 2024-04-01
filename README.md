@@ -1,4 +1,4 @@
-## Identitas
+# Identitas
 
 <table align="center">
   <tr><td>Nama</td><td>Nur Azizah Wulandari</td></tr>
