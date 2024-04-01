@@ -12,19 +12,19 @@
 </table> 
 <br><br>
 
-## Tampilan Login
+# Tampilan Login
 ![Screenshot 2024-04-01 102236](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/c88578bd-d8f8-47ed-b8fd-242f33be2b07)
 
 
-## Tampilan Data Buku
+# Tampilan Data Buku
 ![Screenshot 2024-04-01 102629](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/acb17d1f-332e-4c57-bfe8-0e94c2bb2fcc)
 
 
-## Tampilan Data Anggota
+# Tampilan Data Anggota
 ![Screenshot 2024-04-01 103121](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/f9e88fbc-b7e2-4e80-943c-23d563fe5ef6)
 
-## Tampilan Transaksi
-# Tampilan Peminjaman
+# Tampilan Transaksi
+#3 Tampilan Peminjaman
 ![Screenshot-03401](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/a0ded4cf-9003-4149-97f2-ed3b3042f98c)
 
 
