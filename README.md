@@ -23,11 +23,4 @@
 ## Tampilan Data Anggota
 ![Screenshot 2024-04-01 103121](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/f9e88fbc-b7e2-4e80-943c-23d563fe5ef6)
 
-<h3> Tampilan Transaksi :</h3>
-</td>
-</tr>
-<tr>
-    <td>
-        <small>Pemilihan Meja</small>
-        <img src="![Screenshot-03401](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/ff55b3dc-a67a-4724-9ea8-8a49dc3b00e2)" width="100%" border="0">
-    </td>
+
