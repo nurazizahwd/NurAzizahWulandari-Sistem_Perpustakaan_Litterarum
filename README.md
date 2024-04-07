@@ -16,7 +16,7 @@
 ![Screenshot 2024-04-01 102236](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/c88578bd-d8f8-47ed-b8fd-242f33be2b07)
 
 # Tampilan Menu
-![image](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/611979df-2304-42bb-a8b6-d84960b752a4)
+![Screenshot 2024-04-07 102439](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/6eb1ef5a-a44c-488c-87c2-e78bcb53ae04)
 
 # Tampilan Data Buku
 ![Screenshot 2024-04-01 102629](https://github.com/nurazizahwd/NurAzizahWulandari-Sistem_Perpustakaan_Sederhana/assets/151890058/acb17d1f-332e-4c57-bfe8-0e94c2bb2fcc)
